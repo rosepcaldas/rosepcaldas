@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou estudando **Estatística, Paython e Machine leranig**
 
-- 💬 Skills **Spss, Sphinx, QGis (mapas georeferenciados), Excel (PowerQuery e Dashboards), Google Sheets e Forms, Python**
+- 💬 Skills **Spss, Sphinx, QGis (mapas georeferenciados), Excel (PowerQuery e Dashboards), Google Sheets e Forms, ODK Collect, Python**
 
 - 📫 Você me encontra no e-mail **rosepcaldas@gmail.com**
 
