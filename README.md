@@ -7,22 +7,9 @@
 
 - 📫 Você me encontra no e-mail **rosepcaldas@gmail.com**
 
-- 📄 Pesquisa de opinião mercado e mídia, análise de dados, Graduada em Eng. Civil e estudante de Estatística na UnisulVirtual [https://www.linkedin.com/in/rose-marie-pereira-caldas-31885721/]
+- 📄 Atuo na área de Pesquisa de opinião mercado e mídia, análise de dados. Sou graduada em Engenharia Civil pela UFSC, pós-graduada em Gestão empresarial pela UFSC, Gestão de sistemas de informações pela UFSC e Gestão em pesquisa de opnião, mercado e mídia pela Fundação Escola de Sociologia e Política - SP, atualmente estudante de graduação em Estatística na UnisulVirtual
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-  
-<a href="https://twitter.com/@rosemariepc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- generator/master/src/images/icons/Social/twitter.svg" alt="@rosemariepc" height="30" width="40" /></a>
-  
-<a href="https://linkedin.com /in/https://www.linkedin.com/in/rose-marie-pereira-caldas-31885721/" target="blank"><img align="center" src="https://raw.githubusercontent. com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rose-marie-pereira -caldas-31885721/" height="30" width="40" /></a>
-  
-<a href="https://codesandbox.com/@rosepcaldas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- generator/master/src/images/icons/Social/codesandbox.svg" alt="@rosepcaldas" height="30" width="40" /></a>
-  
-<a href="https://instagram.com /@rosepcaldas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/ instagram.svg" alt="@rosepcaldas" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons /devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
 <!---
